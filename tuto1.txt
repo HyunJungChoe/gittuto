@@ -1,2 +1,3 @@
 masterB
-checkout issue1
+checkout issue1 
+issue2
